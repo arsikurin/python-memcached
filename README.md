@@ -3,7 +3,7 @@ _THIS PROGRAM PROVIDED FOR ONLY EDUCATIONAL PURPOSES_
 
 This tool requires you to own an upgraded Shodan API
 # __Installation__
-### [Windows](#windows)
+### [Windows OS](#windows)
 ### [Arch based linux](#arch)
 ### [Ubuntu based linux](#ubuntu)
 
