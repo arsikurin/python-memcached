@@ -3,8 +3,22 @@ _THIS PROGRAM PROVIDED FOR ONLY EDUCATIONAL PURPOSES_
 
 This tool requires you to own an upgraded Shodan API
 # __Installation__
+### [Windows](#windows)
 ### [Arch based linux](#arch)
 ### [Ubuntu based linux](#ubuntu)
+
+### __Windows__
+Clone the repository
+```
+$ git clone https://github.com/arsikurin/memcached.git
+```
+Install Python 3.9 from python.org
+
+You also require to have Scapy and Shodan modules installed
+```
+$ pip install Scapy
+$ pip install Shodan
+```
 
 
 ### __Arch__
@@ -44,5 +58,5 @@ $ pip install Shodan
 ```
 $ cd memcached
 $ python Memcached.py
-$
 ```
+__Congratulations. You are done to test your website DDoS protection!__
