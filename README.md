@@ -59,4 +59,3 @@ $ pip install Shodan
 $ cd memcached
 $ python Memcached.py
 ```
-__Congratulations. You are done to test your website DDoS protection!__
