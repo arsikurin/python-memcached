@@ -5,7 +5,7 @@ This tool requires you to own an upgraded Shodan API
 # __Installation__
 ### [Windows OS](#windows)
 ### [Arch based linux](#arch)
-### [Ubuntu based linux](#ubuntu)
+### [Debian based linux](#debian)
 
 ### __Windows__
 Clone the repository
@@ -37,7 +37,7 @@ $ pip install Shodan
 ```
 
 
-### __Ubuntu__
+### __Debian__
 Clone the repository
 ```
 $ git clone https://github.com/arsikurin/memcached.git
